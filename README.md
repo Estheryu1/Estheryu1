@@ -1,31 +1,66 @@
-<h1 align="center">Hi, Estheryu here</h1>
-<h3 align="center">Welcome to my digital workspace. I build software, solve puzzles, and occasionally break things (then fix them, of course). I like keeping my code clean and my workflows chill. • 🛠️ What I do: Full-stack development, UI/UX polishing, and automation. • ⚡ Fun fact: I believe dark mode isn't a preference, it's a lifestyle. Feel free to snoop around my repositories. If you see something you like, let's collaborate!</h3>
+# Hi, I'm Esther Yu 👋 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estheryu1&label=Profile%20views&color=0e75b6&style=flat" alt="estheryu1" /> </p>
+### 🚀 Developer | Problem Solver | Tech Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estheryu1" alt="estheryu1" /></a> </p>
+Welcome to my digital playground! I am a passionate software developer dedicated to writing clean, efficient, and maintainable code. I bridge the gap between robust backend logic and intuitive user experiences, always keeping a chill vibe while shipping high-impact professional work.
 
-<p align="left"> <a href="https://twitter.com/estheryuxa" target="blank"><img src="https://img.shields.io/twitter/follow/estheryuxa?logo=twitter&style=for-the-badge" alt="estheryuxa" /></a> </p>
+---
 
-- You can see the project in my portfolio [Portofolio](https://portofolio-esheryu.vercel.app/)
+## ⚡ Quick About Me
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔭 **Current Focus:** Building scalable architecture and refining user experiences.
+- 🧠 **Learning Ecosystem:** Diving deeper into system design and advanced optimization.
+- 🤝 **Collaboration:** Always open to contributing to open-source or joining innovative side projects.
+- 🎧 **Coding Fuel:** Powered by deep-focus lo-fi beats and a steady stream of caffeine.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🧰 Tech Stack & Tools
+
+### 🌐 Frontend Engineering
+* **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+* **Frameworks:** React.js, Next.js, Vue.js
+* **Styling:** Tailwind CSS, Sass, Styled Components
+
+### ⚙️ Backend & Infrastructure
+* **Runtime/Languages:** Node.js, Python, Go
+* **Frameworks:** Express.js, NestJS, FastAPI
+* **Databases:** PostgreSQL, MongoDB, Redis
+* **DevOps/Cloud:** Docker, Git/GitHub Actions, AWS / Vercel
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="left">
-<a href="https://codepen.io/estheryu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="estheryu1" height="30" width="40" /></a>
-<a href="https://dev.to/estheryu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="estheryu1" height="30" width="40" /></a>
-<a href="https://twitter.com/estheryuxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estheryuxa" height="30" width="40" /></a>
-<a href="https://instagram.com/alvlryevna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvlryevna" height="30" width="40" /></a>
+  <img src="https://vercel.app" alt="Esther's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Esther's Top Languages" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estheryu1&show_icons=true&locale=en&layout=compact" alt="estheryu1" /></p>
+## 🛠️ My Philosophy
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estheryu1&show_icons=true&locale=en" alt="estheryu1" /></p>
+* **Keep it Simple:** Code should be written to be read by humans first, and executed by machines second.
+* **Never Stop Tweaking:** Continuous integration isn't just for software; it's a personal growth strategy.
+* **Community Over Everything:** Great documentation and kind collaboration make the tech world go round.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estheryu1&" alt="estheryu1" /></p>
+---
+
+## 📫 Let's Connect & Create
+
+Whether you want to discuss a potential project, look over a pull request, or simply talk about code architecture over virtual coffee—feel free to reach out!
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://shields.io" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+⚡ *“First, solve the problem. Then, write the code.”* – John Johnson
